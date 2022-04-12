@@ -13,3 +13,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Contract deployed: 
+```shell
+https://rinkeby.etherscan.io/address/0xBaE8a5441fBb8c74EB86f48617C3990498b1D837
+```
